@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: blue;
+  height: 100vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  width: 80%;
+  align-items: center;
+  justify-content: center;
+}
+.option-container {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 20px;
+}
